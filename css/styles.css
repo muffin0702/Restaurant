@@ -1,4 +1,4 @@
-/* body------------------------------------------------------------------------- */
+/* body */
 body,html {
   margin-top: 0;
   padding-top: 0;
@@ -18,7 +18,7 @@ h2, p, a {
 h2 {
   font-size: 80px;
 }
-/* header----------------------------------------------------------------------- */
+/* header */
 .header {
   position: fixed;
   width: 100%;
@@ -45,7 +45,7 @@ h2 {
   background-color: #FFDECF;
   color: #3F4441;
 }
-/* container1------------------------------------------------------------------- */
+/* container1 */
 .name {
   margin-top: 100px;
 }
@@ -76,7 +76,7 @@ h2 {
   font-size: 25px;
 }
 
-/* container2------------------------------------------------------------------- */
+/* container2 */
 #container2 {
   font-size: 30px;
   font-family: 'Caveat', cursive;
@@ -92,7 +92,7 @@ h2 {
   padding: 50px 100px;
 }
 
-/* container3------------------------------------------------------------------- */
+/* container3 */
 .ourmenu {
   margin-bottom: 60px;
 }
@@ -148,7 +148,7 @@ h2 {
 
 
 
-/* footer----------------------------------------------------------------------- */
+/* footer */
 #footer {
   background-color: #BA7967;
   font-family: 'Caveat', cursive;
@@ -169,3 +169,5 @@ h2 {
   margin-right: auto;
   margin-left: auto;
 }
+
+
